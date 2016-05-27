@@ -21,20 +21,20 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32 = $this->env->getExtension("native_profiler");
-        $__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32->enter($__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "gt/index.html.twig"));
+        $__internal_2a1f1b3b56361807bd0bec9945a58611b13dce725da864c38fa4c82d4074aa29 = $this->env->getExtension("native_profiler");
+        $__internal_2a1f1b3b56361807bd0bec9945a58611b13dce725da864c38fa4c82d4074aa29->enter($__internal_2a1f1b3b56361807bd0bec9945a58611b13dce725da864c38fa4c82d4074aa29_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "gt/index.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32->leave($__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32_prof);
+        $__internal_2a1f1b3b56361807bd0bec9945a58611b13dce725da864c38fa4c82d4074aa29->leave($__internal_2a1f1b3b56361807bd0bec9945a58611b13dce725da864c38fa4c82d4074aa29_prof);
 
     }
 
     // line 2
     public function block_body($context, array $blocks = array())
     {
-        $__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958 = $this->env->getExtension("native_profiler");
-        $__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958->enter($__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_96c8aa0bf5bf103ede9ac8cbea6244e91858b367b5a6ea29302febb9ce386d31 = $this->env->getExtension("native_profiler");
+        $__internal_96c8aa0bf5bf103ede9ac8cbea6244e91858b367b5a6ea29302febb9ce386d31->enter($__internal_96c8aa0bf5bf103ede9ac8cbea6244e91858b367b5a6ea29302febb9ce386d31_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 3
         echo "
@@ -51,7 +51,7 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
             <h1>Welcome to GradeTrader</h1>
             <p>We hope to make your stay as much educational and fun as possible</p>
             <p><a class=\"btn btn-primary btn-lg\" href=\"/gt/play\" role=\"button\">Start GrateTrader</a></p>
-            <p><a class=\"btn btn-primary btn-lg\" href=\"/tester\" role=\"button\">Test GradeTrader</a></p>
+            <p><a class=\"btn btn-primary btn-lg\" href=\"/tester/2\" role=\"button\">Julian & Paul & Justin</a></p>
         </div>
         <div class=\"col-xs-6 col-md-4\"></div>
     </div>
@@ -59,7 +59,7 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
 
 ";
         
-        $__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958->leave($__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958_prof);
+        $__internal_96c8aa0bf5bf103ede9ac8cbea6244e91858b367b5a6ea29302febb9ce386d31->leave($__internal_96c8aa0bf5bf103ede9ac8cbea6244e91858b367b5a6ea29302febb9ce386d31_prof);
 
     }
 
@@ -94,7 +94,7 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
 /*             <h1>Welcome to GradeTrader</h1>*/
 /*             <p>We hope to make your stay as much educational and fun as possible</p>*/
 /*             <p><a class="btn btn-primary btn-lg" href="/gt/play" role="button">Start GrateTrader</a></p>*/
-/*             <p><a class="btn btn-primary btn-lg" href="/tester" role="button">Test GradeTrader</a></p>*/
+/*             <p><a class="btn btn-primary btn-lg" href="/tester/2" role="button">Julian & Paul & Justin</a></p>*/
 /*         </div>*/
 /*         <div class="col-xs-6 col-md-4"></div>*/
 /*     </div>*/

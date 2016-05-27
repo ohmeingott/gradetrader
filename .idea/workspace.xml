@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0afbec-3b53-4300-984e-2cf8b946461f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/gt/index.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/gt/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/13/13e07c662f23b4a4ea5682b8be9014378dfa94f34a1953ea18fffd62f6e26a89.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/13/13e07c662f23b4a4ea5682b8be9014378dfa94f34a1953ea18fffd62f6e26a89.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/05/05a3e9bef9af12ddbd744bb7ec771f2a2e96e8fd5ace49f94aeeff83362f1b57.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/05/05a3e9bef9af12ddbd744bb7ec771f2a2e96e8fd5ace49f94aeeff83362f1b57.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
     </list>
     <ignored path="gradetrader.iws" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/gt/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+            <state relative-caret-position="289">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -400,12 +396,12 @@
       <workItem from="1464180144053" duration="644000" />
       <workItem from="1464182624575" duration="12229000" />
       <workItem from="1464325631314" duration="12892000" />
-      <workItem from="1464358326471" duration="1368000" />
+      <workItem from="1464358326471" duration="1974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101969000" />
+    <option name="totallyTimeSpent" value="102575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1386" height="788" extended-state="0" />
@@ -1007,8 +1003,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/gt/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+        <state relative-caret-position="289">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding />
         </state>
       </provider>

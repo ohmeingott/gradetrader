@@ -127,3 +127,17 @@ c6aa83,127.0.0.1,GET,http://gradetrader/tester,1464358855,,404
 480223,127.0.0.1,GET,http://gradetrader/bundles/framework/css/structure.css,1464358857,,404
 678c97,127.0.0.1,GET,http://gradetrader/bundles/framework/css/exception.css,1464358858,d740eb,200
 d740eb,127.0.0.1,GET,http://gradetrader/bundles/framework/css/exception.css,1464358858,,404
+86cc28,127.0.0.1,GET,http://gradetrader/,1464360395,,200
+4d0418,127.0.0.1,GET,http://gradetrader/details.css,1464360397,2afc80,200
+2afc80,127.0.0.1,GET,http://gradetrader/details.css,1464360397,,404
+a8df51,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464360397,cf5683,200
+cf5683,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464360398,,404
+ab8e79,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464360398,ece927,200
+ece927,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464360398,,404
+c73d35,127.0.0.1,GET,http://gradetrader/,1464360586,,200
+22d8e2,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464360588,fc18a1,200
+6fa842,127.0.0.1,GET,http://gradetrader/details.css,1464360588,0c1939,200
+fc18a1,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464360588,,404
+0c1939,127.0.0.1,GET,http://gradetrader/details.css,1464360588,,404
+33e91e,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464360588,e539ad,200
+e539ad,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464360588,,404
