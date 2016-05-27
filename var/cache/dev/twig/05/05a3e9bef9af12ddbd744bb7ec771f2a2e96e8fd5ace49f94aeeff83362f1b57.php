@@ -21,20 +21,20 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32 = $this->env->getExtension("native_profiler");
-        $__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32->enter($__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "gt/index.html.twig"));
+        $__internal_79b016617382baa283a150027f86b03fa7bb98a8e14f2bccd51af3c4b001c146 = $this->env->getExtension("native_profiler");
+        $__internal_79b016617382baa283a150027f86b03fa7bb98a8e14f2bccd51af3c4b001c146->enter($__internal_79b016617382baa283a150027f86b03fa7bb98a8e14f2bccd51af3c4b001c146_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "gt/index.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32->leave($__internal_8992b8a0a834ec4828596f43c02b6097f6fed1132aa7638b75b9f0cb7a2a9b32_prof);
+        $__internal_79b016617382baa283a150027f86b03fa7bb98a8e14f2bccd51af3c4b001c146->leave($__internal_79b016617382baa283a150027f86b03fa7bb98a8e14f2bccd51af3c4b001c146_prof);
 
     }
 
     // line 2
     public function block_body($context, array $blocks = array())
     {
-        $__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958 = $this->env->getExtension("native_profiler");
-        $__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958->enter($__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_1ee522da98403be5948d7237de7b51a43f168749a3e64ec054fe74a0fa558cd9 = $this->env->getExtension("native_profiler");
+        $__internal_1ee522da98403be5948d7237de7b51a43f168749a3e64ec054fe74a0fa558cd9->enter($__internal_1ee522da98403be5948d7237de7b51a43f168749a3e64ec054fe74a0fa558cd9_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 3
         echo "
@@ -50,8 +50,8 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
         <div class=\"col-xs-6 col-md-4\">
             <h1>Welcome to GradeTrader</h1>
             <p>We hope to make your stay as much educational and fun as possible</p>
-            <p><a class=\"btn btn-primary btn-lg\" href=\"/gt/play\" role=\"button\">Start GrateTrader</a></p>
-            <p><a class=\"btn btn-primary btn-lg\" href=\"/tester\" role=\"button\">Test GradeTrader</a></p>
+            <p><a class=\"btn btn-primary btn-lg\" href=\"/gt/play\" role=\"button\">Its me Mario!</a></p>
+            <p><a class=\"btn btn-primary btn-lg\" href=\"/tester/2\" role=\"button\">Julian & Paul & Justin</a></p>
         </div>
         <div class=\"col-xs-6 col-md-4\"></div>
     </div>
@@ -59,7 +59,7 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
 
 ";
         
-        $__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958->leave($__internal_1ae818cae483cf4ee03981fc9e4568ce85715431a093642cac25c43fd4057958_prof);
+        $__internal_1ee522da98403be5948d7237de7b51a43f168749a3e64ec054fe74a0fa558cd9->leave($__internal_1ee522da98403be5948d7237de7b51a43f168749a3e64ec054fe74a0fa558cd9_prof);
 
     }
 
@@ -93,8 +93,8 @@ class __TwigTemplate_ac2491e9eb9c0b21775a18dbac87c3f70df9cbd8afcd6cb87762c599633
 /*         <div class="col-xs-6 col-md-4">*/
 /*             <h1>Welcome to GradeTrader</h1>*/
 /*             <p>We hope to make your stay as much educational and fun as possible</p>*/
-/*             <p><a class="btn btn-primary btn-lg" href="/gt/play" role="button">Start GrateTrader</a></p>*/
-/*             <p><a class="btn btn-primary btn-lg" href="/tester" role="button">Test GradeTrader</a></p>*/
+/*             <p><a class="btn btn-primary btn-lg" href="/gt/play" role="button">Its me Mario!</a></p>*/
+/*             <p><a class="btn btn-primary btn-lg" href="/tester/2" role="button">Julian & Paul & Justin</a></p>*/
 /*         </div>*/
 /*         <div class="col-xs-6 col-md-4"></div>*/
 /*     </div>*/
