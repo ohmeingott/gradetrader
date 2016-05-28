@@ -194,3 +194,14 @@ e3a372,127.0.0.1,GET,http://gradetrader/details.css,1464361119,,404
 a4d748,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464361119,,404
 ae2d2d,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464361119,de39ad,200
 de39ad,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464361119,,404
+2730f1,127.0.0.1,GET,http://gradetrader/,1464427028,,200
+db5a77,127.0.0.1,GET,http://gradetrader/details.css,1464427030,5f73f3,200
+5f73f3,127.0.0.1,GET,http://gradetrader/details.css,1464427030,,500
+01b1c1,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464427031,e3bd5b,200
+e3bd5b,127.0.0.1,GET,http://gradetrader/font-awesome/css/font-awesome.min.css,1464427031,,500
+45e7aa,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464427031,bbb64f,200
+bbb64f,127.0.0.1,GET,http://gradetrader/css/freelancer.css,1464427031,,500
+904439,127.0.0.1,GET,http://gradetrader/favicon.ico,1464427032,0570b8,200
+0570b8,127.0.0.1,GET,http://gradetrader/favicon.ico,1464427033,,500
+106965,127.0.0.1,GET,http://gradetrader/favicon.ico,1464427034,39e535,200
+39e535,127.0.0.1,GET,http://gradetrader/favicon.ico,1464427034,,500
